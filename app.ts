@@ -11,5 +11,3 @@ let student = {
     console.log("A");
   },
 };
-
-let age: number = 20;
